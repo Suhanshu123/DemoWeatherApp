@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheWeatherApp</string>
+    <string name="speed">Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="temperature">Temperature</string>
+    <string name="description">Description</string>
+    <string name="main">main</string>
+    <string name="name">Name</string>
+</resources>
